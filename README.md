@@ -13,7 +13,7 @@
 
 ## Images:
 [Unsplash](https://unsplash.com/)  
-[Unsample](https://unsplash.com/) Get random Images from unsplash bases on settings  
+[Unsample](https://unsplash.com/) Get random Images from unsplash based on settings  
 [Pexels](https://www.pexels.com/)  
 [Pxhere](https://pxhere.com/)
 [StockSnap](https://stocksnap.io/)  
@@ -87,6 +87,7 @@
 
 ## Edit and picture collage:
 [Pixlr](https://pixlr.com/)  
+[Penpot](https://penpot.app/)  
 
 ## Design Inspiration:
 [Dribble](https://dribbble.com/)  
@@ -113,8 +114,9 @@
 ## APIs:
 [Public APIs](https://github.com/public-apis/public-apis)  
 
-## JavaScript Libraries:
+## Frameworks and JavaScript Libraries:
 [Moment.js](https://momentjs.com/)  
+[CKEditor](https://ckeditor.com/)  
 
 ##  Test, Optimization and compression:
 [Pingdom](https://tools.pingdom.com/)  

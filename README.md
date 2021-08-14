@@ -46,15 +46,15 @@
 [Freeicons](https://freeicons.io/)  
 [ICONFINDER](https://www.iconfinder.com/free_icons)  
 [Mono Icons](https://icons.mono.company/)  
-[ionic](https://ionic.io/ionicons) 
-[Bootstrap Icons](https://icons.getbootstrap.com/) 
-[iconmonster](https://iconmonstr.com/) 
-[Iconoir](https://iconoir.com/) 
-[Eva Icons](https://akveo.github.io/eva-icons/#/) 
-[Heroicons](https://heroicons.dev/) 
-[Orion](https://orioniconlibrary.com/all-icons) 
-[Visualpharm](https://visualpharm.com/) 
-[Icon icons](https://icon-icons.com/) 
+[ionic](https://ionic.io/ionicons)  
+[Bootstrap Icons](https://icons.getbootstrap.com/)  
+[iconmonster](https://iconmonstr.com/)  
+[Iconoir](https://iconoir.com/)  
+[Eva Icons](https://akveo.github.io/eva-icons/#/)   
+[Heroicons](https://heroicons.dev/)  
+[Orion](https://orioniconlibrary.com/all-icons)  
+[Visualpharm](https://visualpharm.com/)  
+[Icon icons](https://icon-icons.com/)  
 
 ## Backgrounds:
 [Hero Patterns](http://www.heropatterns.com/)   
@@ -129,7 +129,7 @@
 [Favicon](https://realfavicongenerator.net/)  
 
 ##  Deploy:
-[Kaffeine Heroku](hhttps://kaffeine.herokuapp.com/) pings your Heroku app every 30 minutes  
+[Kaffeine Heroku](https://kaffeine.herokuapp.com/) pings your Heroku app every 30 minutes   
 [Netlify](https://www.netlify.com/)  
 [Heroku](https://www.heroku.com/)  
 [GitHub Pages](https://pages.github.com/)  
